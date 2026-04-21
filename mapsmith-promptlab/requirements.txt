@@ -1,0 +1,11 @@
+# MapSmith Requirements
+# 
+# Placeholder for dependencies.
+# Specific packages will be added as development progresses.
+#
+# Likely candidates (to be confirmed):
+# - requests
+# - python-dotenv
+# - jupyter
+# - pandas
+# - streamlit (if web interface is used)
