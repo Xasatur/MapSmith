@@ -9,7 +9,7 @@ evaluation results, and logbook data. Creates documentation-ready reports.
 def generate_report(logbook_entries: list, output_path: str) -> None:
     """
     Generate a comprehensive report from logbook entries.
-    
+
     Args:
         logbook_entries: List of experiment log entries
         output_path: Path where report should be saved

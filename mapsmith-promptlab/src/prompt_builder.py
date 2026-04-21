@@ -10,11 +10,11 @@ for the AI model to interpret and generate battle maps.
 def build_prompt(template: str, **kwargs) -> str:
     """
     Build a prompt from a template and parameters.
-    
+
     Args:
         template: Base prompt template with placeholders
         **kwargs: Template variables to fill in
-        
+
     Returns:
         Completed prompt string
     """

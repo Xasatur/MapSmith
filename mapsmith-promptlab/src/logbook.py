@@ -9,7 +9,7 @@ and evaluation results. Provides a record of all operations for later analysis.
 def log_entry(prompt: str, output: str, evaluation: dict) -> None:
     """
     Log an experiment entry with prompt, output, and evaluation.
-    
+
     Args:
         prompt: The input prompt used
         output: The generated output

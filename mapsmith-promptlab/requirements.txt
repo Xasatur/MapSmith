@@ -1,5 +1,5 @@
 # MapSmith Requirements
-# 
+#
 # Placeholder for dependencies.
 # Specific packages will be added as development progresses.
 #
